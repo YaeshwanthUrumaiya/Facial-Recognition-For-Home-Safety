@@ -3,7 +3,7 @@
 ## Introduction: 
 (Note: This project was done as the final assessment for my Internet Of Things 2 Course.)
 
-The project's aim is pretty simple! To run in Raspberry and use its camera module to provide cheap and effective Smart Door Lock solutions and the current version was created as a proof of this concept which can be ran on an computer/laptop.
+The project's aim is pretty simple! To run in Raspberry and use its camera module to provide cheap and effective Smart Door Lock solution and the current version was created as a proof of this concept which can be ran on an computer/laptop.
 
 ## Workings:
 The ```requirements.txt``` file is included in this repository; please install all of the required libraries and run the ```Project_IOT2.py``` file.
